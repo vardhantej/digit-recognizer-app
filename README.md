@@ -5,6 +5,19 @@ The model was built using tensorflow 2.0 and keras and was trained and tested on
 The Web App:\
 The App was built using React and Material UI and allows users to draw images on the canvas and get the corresponding CNN prediction. The app makes API calls to the deployed CNN model API using Axios and was deployed on the web using Netlify.
 
+# Sample Output Screenshots
+<p align="center">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_0.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_1.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_2.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_3.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_4.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_5.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_6.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_7.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_8.JPG" width="200" height="280">
+<img src="https://github.com/vardhantej/digit-recognizer-app/blob/main/CNN%20Prediction%20SS/ss_prediction_9.JPG" width="200" height="280">
+</p>
 
 
 # Getting Started with Create React App
