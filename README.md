@@ -1,3 +1,11 @@
+# About the project
+This is a digit recognizer app which uses a Convolutional Neural Network (built using tensorflow 2.0 and keras) to predict digits drawn by the user on the canvas. \
+The CNN model: \
+The model was built using tensorflow 2.0 and keras and was trained and tested on MNIST dataset which consisted of 60,000 (28x28) images in the training set and 10,000 (28x28) images in the test set. The API for the model was built using Flask web framework and it was deployed on Heroku. The API uses OpenCV to implement image pre-processing for the model.\
+The Web App:\
+The App was built using React and Material UI and allows users to draw images on the canvas and get the corresponding CNN prediction. The app makes API calls to the deployed CNN model API using Axios and was deployed on the web using Netlify.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
