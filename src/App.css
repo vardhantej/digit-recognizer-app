@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    color:rgb(5, 20, 102);
+    
+    
+}
+
+
+.canvas{
+    border: 1px solid black;
+}
+
+.clear{
+    margin: 5px;
+}
+
