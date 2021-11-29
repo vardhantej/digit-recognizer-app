@@ -6,6 +6,7 @@ The Web App:\
 The App was built using React and Material UI and allows users to draw images on the canvas and get the corresponding CNN prediction. The app makes API calls to the deployed CNN model API using Axios and was deployed on the web using Netlify.
 
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
